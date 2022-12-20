@@ -1,1 +1,0 @@
-# SoftwareProjectManagementLab2022
